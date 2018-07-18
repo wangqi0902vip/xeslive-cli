@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="648f6ae3-57a9-41ac-b0d1-b6ff2462b4c4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/node_modules/ms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/node_modules/graceful-fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/node_modules/jsonfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/node_modules/universalify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/node_modules/graceful-fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/example/example.created.file" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/node_modules/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/graceful-fs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/jsonfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/universalify" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xeslive-cli.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.package_versions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.recently_updates.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_commander@2.16.0@commander/typings/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_debug@3.1.0@debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/copy-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/copy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/emptyDir-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/emptyDir.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureDir-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureDir.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureFile-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureFile.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureLink-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureLink.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureSymlink-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/ensureSymlink.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/fs-read-write.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/move-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/move.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/outputFile-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/outputFile.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/outputJson-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/outputJson.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/pathExists-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/pathExists.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/readJson-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/readJson.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/remove-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/remove.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/writeJson-sync.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/docs/writeJson.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/copy-sync/copy-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/copy-sync/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/copy/copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/copy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/empty/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/symlink-paths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/symlink-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/ensure/symlink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/fs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/json/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/json/jsonfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/json/output-json-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/json/output-json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/mkdirs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/mkdirs/mkdirs-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/mkdirs/mkdirs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/mkdirs/win32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/move-sync/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/move/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/output/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/path-exists/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/remove/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/remove/rimraf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/util/buffer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/lib/util/utimes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_fs-extra@7.0.0@fs-extra/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/graceful-fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/legacy-streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_graceful-fs@4.1.11@graceful-fs/polyfills.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_jsonfile@4.0.0@jsonfile/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_ms@2.0.0@ms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/commandline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/example/basic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/example/getPID.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/example/nodePythonTerminal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/licence.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_node-cmd@3.0.0@node-cmd/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/GruntFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/promise.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/promise/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/response.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/git.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/BranchDeleteSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/BranchSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/CommitSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/DiffSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/FetchSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/FileStatusSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/ListLogSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/MergeSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/MoveSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/PullSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/StatusSummary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/responses/TagList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/util/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_simple-git@1.96.0@simple-git/src/util/exists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_universalify@0.1.2@universalify/.npminstall.done" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_universalify@0.1.2@universalify/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_universalify@0.1.2@universalify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_universalify@0.1.2@universalify/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/_universalify@0.1.2@universalify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-741">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/core/cli.js" />
+        <option value="$PROJECT_DIR$/core/index.js" />
+        <option value="$PROJECT_DIR$/script.sh" />
+        <option value="$PROJECT_DIR$/core/init.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xeslive-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xeslive-cli" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="648f6ae3-57a9-41ac-b0d1-b6ff2462b4c4" name="Default" comment="" />
+      <created>1531794862547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531794862547</updated>
+      <workItem from="1531794863960" duration="6340000" />
+      <workItem from="1531805144289" duration="13887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="626" column="0" lean-forward="false" selection-start-line="626" selection-start-column="0" selection-end-line="626" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/simple-git/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

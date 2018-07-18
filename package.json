@@ -1,0 +1,32 @@
+{
+  "name": "xeslive-cli",
+  "version": "0.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cli": "node index.js"
+  },
+  "bin": {
+    "xeslive": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangqi0902vip/xeslive-cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "wangqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangqi0902vip/xeslive-cli/issues"
+  },
+  "homepage": "https://github.com/wangqi0902vip/xeslive-cli#readme",
+  "dependencies": {
+    "commander": "^2.16.0",
+    "fs-extra": "^7.0.0",
+    "node-cmd": "^3.0.0",
+    "simple-git": "^1.96.0"
+  }
+}

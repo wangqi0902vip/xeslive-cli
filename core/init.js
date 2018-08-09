@@ -15,18 +15,17 @@ async function init (name) {
     console.log('success')
   } else {
     process.stdout.write(name + '文件夹已经存在，是否删除并替换：y/n ：')
-    process.stdin.resume()
     process.stdin.setEncoding('utf-8')
     process.stdin.on('data', (chunk) => {
-      chunk = chunk.substring(0, chunk.length - 1)
+      // chunk = chunk.replace(/\s+/,'')
+      chunk = chunk.substring(0,1)
       if (chunk === 'y') {
-        removeFiles(localPath + '/' + name + '/').then((e) => {
+        removeFiles(localPath + '/' + name + '/').then(() => {
           'use strict'
           console.log('删除成功！')
           console.log('继续下载模板！')
           init(name)
         })
-
         console.log('删除文件夹！')
       } else if (chunk === 'n') {
         console.log('不删除文件夹，退出操作!')

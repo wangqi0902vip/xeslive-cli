@@ -1,3 +1,4 @@
 module.exports = {
-  init:require('./init')
+  initv1:require('./init'),
+  init:require('./initv2')
 }

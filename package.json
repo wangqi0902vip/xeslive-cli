@@ -1,6 +1,6 @@
 {
   "name": "xeslive-cli",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,9 +24,11 @@
   },
   "homepage": "https://github.com/wangqi0902vip/xeslive-cli#readme",
   "dependencies": {
+    "cli-progress": "^2.0.0",
     "commander": "^2.16.0",
     "fs-extra": "^7.0.0",
     "node-cmd": "^3.0.0",
-    "simple-git": "^1.96.0"
+    "simple-git": "^1.96.0",
+    "unzip": "^0.1.11"
   }
 }

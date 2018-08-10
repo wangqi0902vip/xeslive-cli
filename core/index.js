@@ -1,4 +1,4 @@
 module.exports = {
-  initv1:require('./init'),
-  init:require('./initv2')
+  init:require('./initv2'),
+  template:require('./showTemplate')
 }
